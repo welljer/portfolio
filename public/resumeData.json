@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name":"Jeremy Cantwell",
+    "description":"I am a Full Stack web development engineer and I use react.js to develop pages.",
+    "image":"profile_pic.PNG",
+    "bio":"Dedicated to learning and growing. Many years of customer services to back up web designing background. Enjoy mountain biking, poetry, and philosophy in my spare time along with the occassional video game.",
+    "contactmessage":"Please reach out to me in the following ways.",
+    "email": "welljer@gmail.com",
+    "phone": "801.390.5574",
+    "linkedIn": "https://www.linkedin.com/in/jeremycantwell",
+    "github":"https://github.com/welljer",
+    "address":{
+      "street": "1631 North 210 East",
+      "city":"Tooele",
+      "state":"Utah",
+      "zip": "84074"
+    },
+    "resumedownload":"https://my.indeed.com/p/jeremyc-w1j5qvo?from=gnav-util-resume--myind",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jeremycantwell",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Certificate for the M.E.R.N. Stack",
+    "education":[
+      {
+        "school":"University of Utah",
+        "degree":"Full stack web development",
+        "graduated":"April 2019",
+        "description":"Study to learn JavaScript, jQuery, Bootstrap, Materialize, Node.js, Express.js, MySql, Mongo.js, and React.js. Furthermore learning Agile and Scrum methodologies.  ."
+      }
+    ],
+    "work":[
+      {
+        "company":"2U Education",
+        "title":"Senior Tutor ",
+        "years":"September 2019 - Present",
+        "description":"Assist students with various disciplines to improve their technical skills and knowledge. Working with the following technologies: HTML5, CSS3, JavaScript, jQuery, Node.js, MySQL, Mongo, React.js"
+      },
+      {
+        "company":"Verizon Communications",
+        "title":"Sr Coord-Client Svc Ops",
+        "years":"May 2016 - December 2020",
+        "description":"Tasked daily with researching complex concerns of accounts using analytical tactics. Worked with Upon determination of conclusion communication to departments and/or clients the resolutions and implement the next steps. Worked with legal and executive escalations to handle sensitive situations. Part of team that created learning experiences for technologies outside of the scope of the billing/customer care/escalation teams. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"65%"
+      },
+      {
+        "name":"jQuery",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"Materialize",
+        "level":"80%"
+      },
+      {
+        "name":"Mongo",
+        "level":"50%"
+      },
+      {
+        "name":"MySql",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Salt City Paws",
+        "category":"Fictional dog walking service",
+        "image":"saltcitypaws.jpg",
+        "url":"https://github.com/welljer/saltCityPaws"
+      },
+      {
+        "title":"Humaniteer",
+        "category":"Fictional volunteer finding application",
+        "image":"humaniteer.jpg",
+        "url":"https://github.com/welljer/ApiProject"
+      },
+      {
+        "title":"Google Maps Demo",
+        "category":"Demo of Google Maps API for work",
+        "image":"google_maps_logo.png",
+        "url":"https://welljer.github.io/google_maps_Demo/"
+      }
+    ]
+  }
+}
